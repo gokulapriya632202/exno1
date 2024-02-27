@@ -159,6 +159,13 @@ df
 ```
 ![Screenshot 2024-02-27 161753](https://github.com/gokulapriya632202/exno1/assets/119560302/4e580f15-cbd3-4d6c-bf80-59f7efed80d8)
 
+```
+import numpy as np
+from scipy import stats
+z=np.abs(stats.zscore(df))
+z
+```
+![Screenshot 2024-02-27 165118](https://github.com/gokulapriya632202/exno1/assets/119560302/06e6135a-05ad-459b-be52-abba2647c31a)
 
 
 # Result
